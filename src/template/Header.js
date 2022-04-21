@@ -4,7 +4,7 @@ const Header = () => {
         <div class="Header-logo">
             <h1>
                 <a href="/">
-                    100tifi.co
+                <img src="https://partner.redbubble.com/partnership-portal/client/eab637076b22c782edf0015a0ec3c686.png" alt="100Tifi.co">
                 </a>
             </h1>
         </div>
