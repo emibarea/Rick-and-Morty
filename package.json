@@ -27,5 +27,5 @@
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.16.11"
   },
-  "homepage": "https://emibarea.github.io/100tifi.co"
+  "homepage": "https://emibarea.github.io/Rick-and-Morty"
 }
